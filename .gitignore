@@ -1,0 +1,12 @@
+# Build NetBeans
+/build/
+/dist/
+/nbproject/private/
+/nbbuild/
+/nbdist/
+
+# Logs
+*.log
+
+# Configurações do sistema
+*.DS_Store
